@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        "Name": [ "Poetsen One", "sans-serif" ]
+        "alsiam": [ "Poetsen One", "sans-serif" ]
       }
     },
   },
