@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily:{
         "alsiam": [ "Poetsen One", "sans-serif" ]
-      }
+      },
     },
   },
   plugins: [],

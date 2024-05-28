@@ -16,7 +16,7 @@ const Profile = () => {
                     </div>
                 </div>
                 <div className="Download flex justify-end mx-auto my-[20px] lg:w-[90%]">
-                    <a download={Card} href={Card}>
+                    <a download='alsiamCard.jpg' href={Card}>
                         <h2 className='w-[100px] h-[40px] flex justify-center items-center font-alsiam text-[#fff] text-[15px] rounded-[10px] bg-[red]'>Save Details</h2>
                     </a>
                 </div>
