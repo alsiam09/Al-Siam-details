@@ -1,7 +1,9 @@
 import React from 'react'
-import cover from '../assets/cover.jpg'
+import cover from '../assets/cover1.jpg'
 import Logo from '../assets/img.jpg'
 import Card from '../assets/Card.png'
+import { MdCall } from "react-icons/md";
+import { FaWhatsapp } from "react-icons/fa6";
 const Profile = () => {
     return (
         <section className='py-[10px] bg-[#1f1f1f]'>
@@ -15,7 +17,9 @@ const Profile = () => {
                     <div className="active w-[14px] absolute bottom-[18px] right-[18px] h-[14px] bg-[green] rounded-[50%]"></div>
                     </div>
                 </div>
-                <div className="Download flex justify-end mx-auto my-[20px] lg:w-[90%]">
+                <div className="Download flex gap-1 justify-end mx-auto my-[20px] lg:w-[90%]">
+                    <a href="tel:01813904257" className='w-[40px] h-[40px] flex justify-center items-center font-alsiam text-[#fff] text-[20px] rounded-[10px] border-[2px] border-[red]' ><MdCall/></a>
+                    <a href="https://wa.me/message/3RGTSTCX3MO2G1" className='w-[40px] h-[40px] flex justify-center items-center font-alsiam text-[#fff] text-[20px] rounded-[10px] border-[2px] border-[red]' ><FaWhatsapp/></a>
                     <a download='alsiamCard.jpg' href={Card}>
                         <h2 className='w-[100px] h-[40px] flex justify-center items-center font-alsiam text-[#fff] text-[15px] rounded-[10px] bg-[red]'>Save Details</h2>
                     </a>
