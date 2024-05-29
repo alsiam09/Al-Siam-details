@@ -12,9 +12,9 @@ const Profile = () => {
                     <div className=" flex justify-center coverImg">
                         <img src={cover} className='w-[100%] rounded-b-[10px] lg:h-[250px] lg:w-[90%]' alt="" />
                     </div>
-                    <div className="ProImg w-[160px] absolute lg:left-[100px] bottom-[-40%] h-[160px] flex justify-center items-center rounded-[50%] bg-[#000000]">
+                    <div className="ProImg w-[160px] absolute lg:left-[100px] md:bottom-[-80px] bottom-[-40%] h-[160px] flex justify-center items-center rounded-[50%] bg-[#000000]">
                         <img src={Logo} className='w-[150px] h-[150px] rounded-[50%]' alt="" />
-                    <div className="active w-[14px] absolute bottom-[18px] right-[18px] h-[14px] bg-[green] rounded-[50%]"></div>
+                    <div className="active w-[14px] absolute bottom-[18px] right-[18px] h-[14px] bg-[#37f537ee] rounded-[50%]"></div>
                     </div>
                 </div>
                 <div className="Download flex gap-1 justify-end mx-auto my-[20px] lg:w-[90%]">
