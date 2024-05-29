@@ -29,7 +29,7 @@ const ManDetailes = () => {
                     </div>
                 </div>
                 <div className="md:pt-[0px] md:bg-[#fff0] bg-[#d33030] my-[10px] md:my-[0px] pt-4 ItemBox px-[5px] md:w-[33.33333%]  md:border-x-[1px] border-[#fff] pb-[10px]" >
-                 <p className='text-center font-alsiam  md:text-start text-[15px] font-[400] text-[#fff]'>In today’s busy world, life moves pretty quickly, and we often take little time to actually sit back and consider how things have changed. Before long, we feel overwhelmed because we didn’t take the time to process as things moved. However, journaling forces you to slow down and truly reflect on life—what happened the last few days that you want to think about? How are things going? This time spent working through your thoughts can significantly strengthen your emotional and mental health.</p>
+                 <p className='text-center font-alsiam  md:text-start text-[15px] font-[400] text-[#fff]'>My name is Al-Siam. I am 17 years old. I live in Jessore district of Khulna division of Bangladesh. You will get all my information from this website</p>
                 </div>
                 <div className="ItemBox md:w-[33.33333%] md:h-[200px] px-[10px] md:px-[5px]" >
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3676.3172971958275!2d89.19186311744384!3d22.8647344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff6f45dabacc0f%3A0xa8030a8113dddfb!2sSiam%20House!5e0!3m2!1sen!2sbd!4v1716963617086!5m2!1sen!2sbd" className='w-[100%] h-[100%]' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
